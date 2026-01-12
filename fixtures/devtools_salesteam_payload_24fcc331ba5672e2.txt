@@ -10,7 +10,7 @@ PURSUANT TO ABCD123456 OF THE TERMS OF USE. PLEASE SAVE A COPY OF THIS DOCUMENT 
 
 LICENSE DETAILS
 Type:               Personal License
-Reference No*:      R19124660
+Reference No*:      R12345678
 Date of issue:      24 December 2023
 Billing period:     Monthly
 Valid through:      20 January 2024
@@ -20,7 +20,7 @@ Number of authorized users: 1
 
 
 SOFTWARE ABCD123456
-Please follow the link https://example.com/page Inc.com/order/assets/2735wdtosises2c085qxsckfd to proceed with software
+Please follow the link https://example.com/page Inc.com/order/assets/xxxxxxxxxxxxxxxxxxxx to proceed with software
 activation.
 
 
