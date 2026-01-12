@@ -1,0 +1,41 @@
+FAKTURA / INVOICE NUMER / NO.
+                                                                                                              7/Z/02/2022
+                                                                            DUPLIKAT z dnia / DUPLICATE from day 2022-07-11
+                                                                                        Miejsce wystawienia / Place: Katowice
+                                                                                    Data wystawienia / Issue date: 2022-02-28
+                                                                                       Data sprzedaży / Sale date: 2022-02-28
+
+   ABCD123456 / SELLER:                                                NABYWCA / BUYER:
+                                                                   Acme Tech AB
+   SKYRISE.TECH SPÓŁKA AKCYJNA (formerly:
+                                                                   Kund-id WIN5977, FE nr 160 SE-123 45
+   Skyrise.Tech Spółka z ograniczoną                               Stockholm
+   odpowiedzialnością sp. k.)                                      Sweden
+   Jana III Sobieskiego 2                                          NIP / VAT ID SE123456789001
+   40-082 Katowice, Polska / Poland
+   NIP / VAT ID ABCD123456
+
+
+
+   LP /                                                                        Ilość /
+                                  Nazwa towaru / usługi / Item                            Cena / Unit price     Wartość / Total
+   No.                                                                           Qty
+  1           IT Service - Lead Developer                                         8                    56,00                   448,00
+
+                                                                                           RAZEM / TOTAL                        448,00
+
+                                                                                              Wartość / Total           448,00 EUR
+
+  Do zapłaty / Total due: 448,00 EUR
+  Słownie / In words: czterysta czterdzieści osiem EUR zero centów /
+  four hundred and forty eight EUR zero cents
+  Termin płatności / Due date: 2022-03-14
+  Płatność / Payment type: Przelew / Transfer
+  Bank / Bank:             Danske Bank AS, SWIFT: DABAPLPW         Konto / Bank account: PL64 2360 0005 0000 0045 5010
+  9037
+  Uwagi / Notes:            Odwrotne obciążenie (Reverse charge)
+
+
+
+
+Page 1 of 1                                                                                                     generated in Fakturownia.pl

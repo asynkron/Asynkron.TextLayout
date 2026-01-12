@@ -1,0 +1,41 @@
+INVOICE
+
+
+
+Date:          Aug 31, 2023
+
+Invoice #:     01-2023-08
+
+To:            Acme Tech AB
+
+               Kund-id WIN5977,
+
+               FE nr 160 SE-123 45
+
+               Stockholm Sweden
+
+               Attn: Anders Andersson
+
+
+
+From:          PNT IT SOLUTION,
+
+               M-301, Garden Residency 3, South Bopal
+
+               Gujarat, 380018
+
+For:           IT Consulting Services
+
+Service Dates: 02-07-2023 thru 31-08-2023
+
+Tasks:         Logged Hours
+
+
+
+Logged Hours and Bank Details:
+
+
+
+                                                  Hours Hourly Rate    Amount
+ Total Logged Hours                             86             37,5    3225,00
+ HDFC Bank - 6709                                             Total:   3225,00

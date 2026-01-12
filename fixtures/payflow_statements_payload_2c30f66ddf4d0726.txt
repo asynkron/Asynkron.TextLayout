@@ -1,0 +1,44 @@
+Receipt
+Invoice number FB9E7C3F-0007
+Receipt number 2836-6216
+Date paid      September 9, 2023
+Payment method Mastercard - 4860
+Company        Twitter International ULC
+Address 1      One Cumberland Pl. Fenian St
+Address 2      Dublin 2, D02 AX07 Ireland
+VAT ID         ABCD123456
+
+
+Bill to
+Anders Bergstrom
+SE-
+Sweden
+Anders@Acme Tech.se
+
+
+
+103.75kr paid on September 9, 2023
+
+Description                                      Qty             Unit price      Tax      Amount
+
+
+Twitter Blue                                     1               83.00kr         25%    83.00kr
+Sep 9 – Oct 9, 2023
+
+
+                                                 Subtotal                               83.00kr
+
+                                                 Total excluding tax                    83.00kr
+
+                                                                                        20.75kr
+                                                 VAT - Sweden (25% on 83.00kr)
+                                                                                         (€1.74)
+
+                                                 Total                                 103.75kr
+
+                                                 Amount paid                           103.75kr
+
+
+
+
+2836-6216 · 103.75kr paid on September 9, 2023                                         Page 1 of 1

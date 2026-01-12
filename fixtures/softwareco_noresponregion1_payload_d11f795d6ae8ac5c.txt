@@ -1,0 +1,49 @@
+Påminnelse
+Advokatfirman Wåhlin AB                                                Utskriftsdatum        2022-09-30
+Östra Hamngatan 5,                                                     Kundnummer            123 45
+123 45 GÖTEBORG                                                        Dröjsmålsränta        8.0%
+Sverige
+
+
+Leveransadress                                                         Fakturaadress
+                                                                       Inmem AB
+                                                                       Sankt Eriksvägen 9 B,
+Sverige                                                                123 45 Huddinge
+                                                                       Sverige
+
+
+                                                                       Kundens Momsreg.nr
+Summa               123 45.00
+                                                                       Er referens                      Anders Andersson
+Bankgiro            705-8290                                                                               0763-15 03 4
+Fakturanummer       221520                                             Vår referens                         Mikael Palm
+Förfallodag         2022-09-28                                                                                Andersson
+OCR
+
+Fakturakommentar
+Juridiskt biträde enligt bifogad arbetsredogörelse under angiven tid.
+Ref: Anders Andersson
+
+
+Fakturanummer Fakturadatum    Förfallodatum        Fakturabelopp          Obetalt belopp Beräknat tom                Ränta
+
+221520         2022-09-13       2022-09-28           84,375.00                84,375.00   2022-09-30                  0.00
+
+
+
+
+               Enligt våra noteringar är nedanstående faktura förfallen till betalning men är ännu inte reglerad,
+               vilket vi förmodar är ett förbiseende från Er. Vi emotser Er betalning snarast. Om betalning har
+               skett de närmaste dagarna ber vi er bortse från detta krav.
+
+
+
+
+                                                                     Påminnelseavgift                               0.00
+                                                                     Totalt att betala SEK                     84,375.00
+Adress                       Telefon                               Bankgiro                             F-Skattenr
+Östra Hamngatan 5,           031-123 45 00                         705-8290                             ABCD123456
+123 45 GÖTEBORG              E-postadress                          Plusgiro                             Momsreg.nr
+Sverige                      info@example.com                                                        SE123456789001
+                                                                   IBAN
+                             Godkänd för F-skatt                   SE09 6000 0000 0008 8525 8851

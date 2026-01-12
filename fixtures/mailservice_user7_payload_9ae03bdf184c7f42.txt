@@ -1,0 +1,43 @@
+INVOICE
+
+
+
+Date:          July 06, 2023
+
+Invoice #:     01-2023-07
+
+To:            Acme Tech AB
+
+               Kund-id WIN5977,
+
+               FE nr 160 SE-123 45
+
+               Stockholm Sweden
+
+               Attn: Anders Andersson
+
+
+
+From:          Mudita Software Solution Pvt Ltd,
+
+               B2-201, Westgate Business Bay, Corporate Road, Makarba,
+
+               Gujarat, 380015, India
+
+
+
+For:           IT Consulting Services
+
+Service Dates: 01-06-2023 thru 01-07-2023
+
+Tasks:         Logged Hours
+
+
+
+Logged Hours and Bank Details:
+
+
+
+                                                     Hours Hourly Rate      Amount
+ Total Logged Hours                                16             37.5    USD 600.00
+ HDFC Account - 5776                                             Total:   USD 600.00

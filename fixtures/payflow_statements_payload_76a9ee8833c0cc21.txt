@@ -1,0 +1,58 @@
+Receipt
+Invoice number FB9E7C3F-0021
+Receipt number 2001-1589-5578
+Date paid      November 9, 2024
+Payment method Visa - 8550
+Company        Twitter International ULC
+Address 1      One Cumberland Pl. Fenian
+               St
+Address 2      Dublin 2, D02 AX07 Ireland
+VAT ID         ABCD123456
+
+
+Bill to
+Anders Bergstrom
+SE-
+Sweden
+Anders@Acme Tech.se
+
+
+
+103.75kr paid on November 9, 2024
+
+Description                                                                            Qty    Unit price       Tax             Amount
+
+
+X Premium                                                                                1     83.00kr        25%         83.00kr
+Nov 9 – Dec 9, 2024
+
+
+                                                                 Subtotal                                                 83.00kr
+
+                                                                 Total excluding tax                                      83.00kr
+
+                                                                                                                           20.75kr
+                                                                 VAT - Sweden (25% on 83.00kr)
+                                                                                                                           (€1.79)
+
+                                                                 Total                                                    103.75kr
+
+                                                                 Amount paid                                             103.75kr
+
+
+
+Premium subscriptions automatically renew until canceled. Cancel any time by logging in to your account and visiting this page
+(https://example.com/page on the platform where you subscribed. You can also cancel your subscription on iOS
+and Android from the subscription management settings on your device.
+
+Your purchase is governed by the Purchaser Terms of Service (https://example.com/page For more information,
+visit our Help Center here: https://example.com/page
+
+For support, visit this page (https://example.com/page while logged into your X account and select Get Support.
+
+Thank you for subscribing!
+
+
+
+
+2001-1589-5578 · 103.75kr paid on November 9, 2024                                                                       Page 1 of 1

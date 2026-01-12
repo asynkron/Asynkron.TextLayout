@@ -1,0 +1,43 @@
+Sida 1(1)
+
+                                                                   Faktura
+                                                                                            Fakturadatum       2024-09-20
+                                                                                            Fakturanr          546
+                                                                                            OCR                123 45
+
+
+Leveransadress                                                     Acme Tech AB
+Sankt Eriksvägen 9b                                                Sankt Eriksvägen 9b
+123 45 Huddinge                                                     123 45 Huddinge
+Sverige                                                            Sverige
+
+
+
+
+Kundnr                328                                          Vår referens        Jonna Tärnquist
+Er referens           Anders Andersson                              Betalningsvillkor   15 dagar
+                                                                   Förfallodatum       2024-10-05
+                                                                   Dröjsmålsränta      8%
+
+
+Artnr           Benämning                                Lev ant          Enhet               À-pris              Summa
+
+                255 - Acme Tech AB (Ref: Anders Andersson)
+
+
+                Arbetade timmar
+201             Ekonomiska konsultationer                  1,00           st                6 000,00             6 000,00
+
+
+
+
+Exkl. moms                          Moms                             Totalt                                  ATT BETALA
+6 000,00                            1 500,00                         7 500,00                            SEK 7 500,00
+Moms 25% 1 500,00 (6 000,00)                                       IBAN SE35 6000 0000 0009 9883 0348 BIC HANDSESS
+
+Adress                                      Telefon                                    Bankgiro        Organisationsnr
+Tärnquist Redovisningskonsult AB            0121-123 45                                 5048-2033       ABCD123456
+Jonna Tärnquist, Huginvägen 25              E-post                                                     Momsreg. nr
+123 45 ODENSBACKEN                           info@example.com                                         SE123456789001
+Sverige
+                                                                                                       Godkänd för F-skatt

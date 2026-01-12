@@ -1,0 +1,35 @@
+Faktura
+
+ Fakturamottagare                     Beställare                                    Fakturanummer          609361921
+Acme Tech AB                           Acme Tech AB                                   Fakturadatum           15.12.2022
+Kund-id WIN5977, FE nr 160            Anders Andersson                               Förfallodag            04.01.2023
+SE-123 45 Stockholm                    Sankt Eriksvägen 9 B                          Bankgiro               5516-7886
+Sweden                                SE-123 45 HUDDINGE                            OCR-nummer           83048348011
+                                                                                    Sida                        1 av 1
+
+
+ Leveransadress                       Kundnr.                        90672842       Ordernummer            421300904
+ Acme Tech AB                          Momsreg.nr.             SE123456789001        Orderdatum              15.12.2022
+ Anders Andersson                      Beställare              Anders Andersson       Leveransnummer         125088515
+ Sankt Eriksvägen 9 B                 Transportör                     PostNord      Leveransdatum           15.12.2022
+ SE-123 45 HUDDINGE                   Vår referens                        Web       Betalning         Faktura 20 dagar
+                                      Din referens                                  Valuta                        SEK
+
+
+ Linje      Artikelnr        Beskrivning                                    Antal        Pris/enhet           Summa
+
+ 100        5115686          Nintendo Switch OLED 2021 64GB (neon)          1            3.166,40             3.166,40
+                             Ta med ditt favoritspel på språng
+
+            200381           Trygghetsavtal 12 mnd från faktureringsd       1            299,00                299,00
+
+
+
+
+                                                                            Netto                            3.465,40
+                                                                            Total moms                         791,60
+                                                                            Summa totalt                     4.257,00
+
+           Netto moms           Moms       Total moms             Brutto
+               3.166,40       25,00 %            791,60          3.958,00
+                 299,00        0,00 %                             299,00

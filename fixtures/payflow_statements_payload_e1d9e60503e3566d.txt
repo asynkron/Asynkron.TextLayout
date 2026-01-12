@@ -1,0 +1,34 @@
+Invoice
+Invoice number 4B234170-0005
+Date of issue  December 8, 2024
+Date due       December 8, 2024
+
+
+Octotree                                          Bill to
++1 949-783-9944                                   Anders@Acme Tech.se
+info@example.com
+
+
+
+$35.00 USD due December 8, 2024
+Pay online
+
+
+
+Description                                                               Qty   Unit price        Amount
+
+
+Octotree Pro (per subscription)                                             1    $35.00          $35.00
+Dec 8, 2024 – Dec 8, 2025
+
+
+                                                             Subtotal                            $35.00
+
+                                                             Total                               $35.00
+
+                                                             Amount due                      $35.00 USD
+
+
+
+
+4B234170-0005 · $35.00 USD due December 8, 2024                                                Page 1 of 1

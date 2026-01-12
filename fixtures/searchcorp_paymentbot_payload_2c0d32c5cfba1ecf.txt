@@ -1,0 +1,70 @@
+SearchCorp Cloud EMEA Limited
+                                                                                                                               Velasco
+                                                                                                                     Clanwilliam Place
+
+Faktura                                                                                                                       Dublin 2
+                                                                                                                                Ireland
+Fakturanummer: ABCD123456
+                                                                                                    VAT-/momsnummer: IE3668997OH
+
+
+
+Faktureringsadress
+Anders Andersson
+Acme Tech.se
+Sankt Eriksvägen 9
+123 45 Huddinge
+Sweden
+
+
+Detaljerad information                                             SearchCorp Workspace
+..............................................................
+Fakturanummer                             ABCD123456
+Fakturadatum
+..............................................................
+                                          31 aug. 2024             Totalt i EUR                                           27,60 €
+..............................................................
+Fakturerings-ID                           7802-7641-3985
+..............................................................
+Domännamn                                 Acme Tech.se
+                                                                   Sammanfattning för 1 aug. 2024 - 31 aug. 2024
+
+
+                                                                   Delsumma i EUR                                              27,60 €
+                                                                   Moms (0%)                                                    0,00 €
+                                                                   Totalt i EUR                                                27,60 €
+
+Återbetalning gäller för denna tjänst – I enlighet med artikel 196 i EU-direktivet 2006/112/EC måste mottagaren betala moms på den här
+tjänsten
+
+
+Du debiteras automatiskt för utestående belopp.
+
+
+
+
+                                                                                                                           Sida 1 av 2
+                     Faktura                                                                       Fakturanummer: ABCD123456
+
+
+
+
+Prenumeration                                      Beskrivning           Intervall                 Kvantitet      Belopp (€)
+
+SearchCorp Workspace Business Starter                  Användning            1 aug. - 31 aug.                 4            27,60
+
+                                                                 Delsumma i EUR                                      27,60 €
+                                                                 Moms (0%)                                            0,00 €
+
+
+                                                                 Totalt i EUR                                    27,60 €
+
+
+
+   Behöver du hjälp att tolka debiteringarna på fakturan? Klicka här för ingående förklaringarna
+   https://example.com/page
+
+
+
+
+                                                                                                                  Sida 2 av 2

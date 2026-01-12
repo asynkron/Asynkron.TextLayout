@@ -1,0 +1,52 @@
+KREDITFAKTURA                                        Pg 1 (1)
+
+                                                                                            Kund nr             Fakturanr          Fakturadatum
+                                                                                            ABCD123456          616208320          2021-12-03
+Box 1194, 123 45 Nacka Strand
+
+       Leveransadress:                                                                      Fakturaadress:
+       Acme Tech AB                                                                          Acme Tech AB
+       C/O Anders Andersson, Sankt Eriksvägen                                                Kund-id WIN5977, FE nr 160
+       9b                                                                                   123 45 Stockholm
+       123 45 HUDDINGE
+
+
+
+
+        Vårt order nr:           599300200                                                   Förfallodag:             2021-12-13
+        Ert Inköpsnr:                                                                        Vår ref:                 Lisa Lindqvist
+                                                                                             Leveranssätt:            Budbil pall
+        Er ref:                                                                              Leveransvillkor:         Fritt vårt lager
+                                                                                             Orderdatum:              2021-12-03
+        Godsmärke:               CAS-394770-F6T9                                             Ert Org-nr:              ABCD123456
+
+
+
+
+                                                                                                                                                                      SE_INV_247F_A_1_STD
+       Artikelnr              Beskrivning                                                                    Antal           á pris        MOMS             Belopp
+       ABCD123456             FREIGHT COMPENSATION                                                            -1,00         479,00         -119.75          -479,00
+
+
+
+
+                    MOMS:                 Exkl moms:            Momsbelopp:                     OCR/Betalningsref:          Förfallodag:        Er tillgodo: (SEK)
+                  25,00 %                    -479,00                -119,75                 1071000559791068             2021-12-13                        -599,00
+
+
+
+     Villkor:                                                  Meddelande:
+     Enligt Dustins försäljningsvillkor vid tidpunkten för
+     köpet.
+     https://example.com/page
+
+
+
+
+    Adress:                             Telefon:                      Org nr:                   Bankgiro:                       Info:
+    TechSupply Sverige AB                                                 ABCD123456                255-9334                        Önskar du kvitta fakturan mot
+    Box 1194,                           E-post:                       VAT nr:                   SWIFT/BIC:
+    123 45 Nacka Strand                 info@example.com          SE123456789001            NDEASESS                        kreditfaktura så ber vi er
+                                        Internet:                     Säte:                     IBAN:                           kontakta oss på +46 8 123 123 45                                        www.TechSupply.se                 Nacka Strand              SE1234567890123456789012        eller info@example.com
+                                                                      F-skatt:
+                                                                      Godkänd för F-skatt

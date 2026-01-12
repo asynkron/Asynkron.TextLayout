@@ -1,0 +1,46 @@
+Inmem AB
+Sankt Eriksvägen 9 B
+123 45 Huddinge
+                                                                   Kreditfaktura
+Sverige
+
+
+
+
+Kundnummer:                        123 45                          Faktura nr.:        230776
+Fakturadatum:                 2023-04-17                          Oss tillhanda:   2023-05-02
+Er ref:                  Anders Andersson
+
+
+
+
+Kreditfaktura avseende fakturor 230692.
+
+
+
+
+Beskrivning                                                                                           Belopp
+
+Krediterad faktura: 230692                                                                SEK       -15 775,00
+
+                                          Delsumma                                        SEK       -15 775,00
+
+                                          Moms 25% på SEK -15 775,00                      SEK        -3 943,75
+
+                                          Totalt                                          SEK       -19 718,75
+
+
+
+
+IBAN: SE09 6000 0000 0008 8525 8851 BIC/SWIFT HANDSESS
+HANDELSBANKEN ABCD123456 - SWEDEN A/C 6691 76487290
+
+
+
+
+Efter förfallodagen debiteras dröjsmålsränta enligt räntelagen.
+
+Wåhlin Advokater                            Telefon                Momsreg.nr            Godkänd för F-skatt.
+Östra Hamngatan 5                           031-123 45 00          SE123456789001        Organisationsnummer
+123 45 Göteborg                             Telefax                Bankgiro              ABCD123456
+info@example.com                         031-123 45 20          705-8290              Säte: Göteborg

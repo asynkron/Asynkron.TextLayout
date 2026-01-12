@@ -1,0 +1,31 @@
+We received payment for your CodeHub.com subscription. Thanks for your business!
+Questions? Visit https://example.com/page
+
+
+Date                           2024-10-11 01:15PM PDT
+
+Account billed                 First-Genesis (info@example.com)
+
+Transaction ID                 ch_3Q8pFmJFr6CCHwIi1NQBoN6x
+
+Charged to                     Visa (4*** **** **** 4035)
+
+Description                    Amount
+
+CodeHub Business Cloud -        $357.00 USD
+Month                          Oct 11, 2024 - Nov 10, 2024
+
+
+Tax                            $0.00 USD
+
+Total                          $357.00 USD*
+
+
+
+
+CodeHub, Inc.                     https://example.com/page
+88 Colin P. Kelly Jr. Street
+San Francisco, CA 123 45
+United States
+
+* VAT/GST paid directly by CodeHub, where applicable

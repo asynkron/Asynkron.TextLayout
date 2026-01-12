@@ -1,0 +1,66 @@
+Fakturanr.               016
+
+
+Faktura                                                                                                Fakturadatum
+
+                                                                                                       Förfallodatum
+                                                                                                                                91322508
+                                                                                                                                56215344
+
+
+
+
+Avsändare                                                                    Mottagare
+Aberg Projekt Aktiebolag                                                        Acme Tech AB
+Trollbäcksvägen 32A                                                             Sankt Eriksvägen 9B
+123 45 Tyresö                                                                    Huddinge
+
+ABCD123456                                                                     ABCD123456
+
+
+
+
+Vår referens                                               Dröjsmålsränta                              Kundnummer
+
+ Simon Åberg                                                8                                               123 45
+Er referens                                                Leveransvillkor                             Ordernummer
+
+ Anders Andersson                                                                                            800-016
+Betalningsvillkor                                          Leveranssätt
+
+ 10 dagar
+
+
+
+
+Artikelnummer                    Benämning/Beskrivning                                     Antal        Enhet       Á-pris             Belopp (SEK)
+
+ 123 45                               Konsultuppdrag enligt överenskommelse                    1            st                           123 45
+ 123 45                               Ö-tid                                                    1            st                           800
+
+
+
+
+Momsunderlag                                                                                       Expeditionsavgift
+                                                                                                                                       29
+Moms 25%                                     4012                                                  Frakt
+Moms 16%                                                                                           Belopp före moms
+                                                                                                                                       123 45
+Moms 6%                                                                                            Total moms
+Momsfritt                                                                                          Öresutjämning
+
+                                                                                                   Att betala (SEK)                    123 45
+
+
+
+Tel.nr:       +46 8 123 123 45               Org.nr:             ABCD123456                      Bankgiro:               5720-2947
+Webb:         www.abergprojekt.se             VAT.nr:             SE123456789001                   Plusgiro:
+
+E-post:       info@example.com            SWIFT/BIC:                                           Swish:
+
+                                              IBAN:
+
+
+
+
+                                                                                                                Mall för faktura från vismaspcs.se | © Visma Spcs AB

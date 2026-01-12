@@ -1,0 +1,31 @@
+Receipt
+Invoice number 4B234170-0005
+Receipt number 2167-4616
+Date paid      December 8, 2024
+Payment method Mastercard - 8147
+
+
+Octotree                                      Bill to
++1 949-783-9944                               Anders@Acme Tech.se
+info@example.com
+
+
+
+$35.00 paid on December 8, 2024
+
+Description                                                            Qty   Unit price      Amount
+
+Octotree Pro (per subscription)                                          1    $35.00        $35.00
+Dec 8, 2024 – Dec 8, 2025
+
+
+                                                         Subtotal                           $35.00
+
+                                                         Total                              $35.00
+
+                                                         Amount paid                       $35.00
+
+
+
+
+2167-4616 · $35.00 paid on December 8, 2024                                               Page 1 of 1

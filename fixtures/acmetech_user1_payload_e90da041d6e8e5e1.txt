@@ -1,0 +1,34 @@
+Offert
+Avsändare                                                    Mottagare
+Acme Tech AB                                                  Charge Amps AB
+Sankt Eriksvägen 9B                                          Er referens: Thomas Bindzau
+123 45 Huddinge                                              Frösundaleden 2B
+Telefon +46-544142436                                        123 45, Solna, Sweden
+
+
+Godkänd för F-skatt
+OrgNr:         ABCD123456
+MomsReg:       SE123456789001
+IBAN:          SE46 9500 0099 6034 1813 4460
+BIC/Swift:     NDEASESS
+
+Vår referens:    Anders Andersson
+Offertdatum:     2021-05-21
+Giltig t.o.m.:   2020-06-14
+
+
+
+Beskrivning                 Antal    Enhet     à pris        Moms        Moms kr       Belopp
+
+Workshop 1 - Skalbarhet     1        st        123 45,00 kr   25%         3000,00 kr    123 45,00 kr
+
+Workshop 2 - Skalbarhet     1        st        123 45,00 kr   25%         3000,00 kr    123 45,00 kr
+
+
+
+
+                                                                   Belopp före moms    123 45,00 kr
+
+                                                                        Total moms     6000,00 kr
+
+                                                                      Totalbelopp      123 45,00 kr

@@ -1,0 +1,45 @@
+Sida 1(1)
+
+                                                              Faktura
+                                                                                       Fakturadatum    2021-07-09
+                                                                                       Fakturanr       4
+
+
+
+                                                              Acme Tech AB
+                                                              Kund-Id Win5977, Fe Nr 160
+                                                              123 45 Stockholm
+                                                              Sverige
+
+
+
+
+Kundnr             20                                         Vår referens        Simon Åberg
+Er referens        Anders Andersson                            Betalningsvillkor   10 dagar
+Leveransvillkor    Fritt kund                                 Förfallodatum       2021-07-19
+Ert VAT-nummer     SE123456789001                             Dröjsmålsränta      10%
+
+
+Artnr             Benämning                    Lev ant               Enhet            À-pris                Summa
+
+0004              Konsultarvode                    21,80             st               940,00           20 492,00
+0004              Konsultarvode Övertid             1,00                              852,00               852,00
+0003              Bilersättning / Dag               1,00                              350,00               350,00
+
+
+
+
+Konsultarvode enligt ö.k
+Övertid godkänt av R.J 2021-07-10
+
+Fakt. avgift        Exkl. moms          Moms               Öresavr           Totalt                   ATT BETALA
+29,00               21 723,00           5 430,75           0,25              27 154,00          SEK 27 154,00
+Moms 25% 5 430,75 (21 723,00)
+
+Adress                                  Telefon                                   Säte          Organisationsnr
+Aberg Projekt Aktiebolag                08-123 45 67                              Stockholm     ABCD123456
+Trollbäcksvägen 32A                     E-post                                                  Momsreg. nr
+123 45 Tyresö                            info@example.com                                    SE5566580188
+Sverige
+                                        Webbadress                                              Godkänd för F-skatt
+                                        www.abergprojekt.se

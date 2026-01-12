@@ -1,0 +1,47 @@
+Acme Tech AB
+Kund-id WIN5977
+FE nr 160
+123 45 Stockholm
+
+Acme Tech AB Kund-id WIN5977 FE nr 160 123 45 Stockholm Sverige
+
+
+
+
+Kundnummer:                        123 45                              Faktura nr.:        232329
+Fakturadatum:                  2023-11-01                             Oss tillhanda:   2023-11-16
+
+
+
+
+Juridiskt biträde enligt bifogad arbetsredogörelse under september och oktober 2023.
+
+
+Beskrivning                                                                                          Belopp
+
+Aktiviteter                                                                                   SEK   5 650,00
+
+                                         Delsumma                                             SEK   5 650,00
+
+                                         Moms 25% på SEK 5 650,00                             SEK   1 412,50
+
+                                         Att betala                                           SEK   7 062,50
+                                                                                         Arbetsredogörelse
+                                                                                    Period: september och oktober 2023
+
+
+
+
+                                                                                     Mikael Palm Andersson
+Acme Tech AB
+Ärende
+
+Acme Tech AB Rådgivning (8636890)
+Datum        Beskrivning
+
+2023-09-12   Genomgång av mejl, överväganden ang. open source, licensiering, affärsupplägg m.m., avstämning med Mikael
+             P.A.
+
+2023-09-18   Mottagit mail från klienten angående skapande av affärsupplägg mm. Genomgång och bokande av möte.
+
+2023-09-22   Möte angående licensupplägg för mjukvara

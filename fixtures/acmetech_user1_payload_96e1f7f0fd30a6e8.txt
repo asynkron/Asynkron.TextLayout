@@ -1,0 +1,36 @@
+Ornell Software
+Grøgårds gate 4
+5033 BERGEN
+NORWAY
+
+
+
+
+Acme Tech AB                                                      Due date              2022-10-21
+Kund-id WIN5977, FE nr 160                                       Account no.           3637 29 123 45
+123 45 Stockholm                                                  BIC/SWIFT             SPAVNOBB
+SWEDEN                                                           IBAN                  NO7536246599887
+                                                                 Amount due            kr 96,552.00 (SEK)
+
+                                                                 Invoice no.           123 45
+                                                                 Date                  2022-10-21
+                                                                 Customer no.          123 45
+INVOICE                                                          Please include invoice number with payment
+
+
+Description                                                   Unit Price         Quantity     VAT             Amount
+
+Konsulenttjenester utland                                  kr 2,011.50                48      0%      kr 96,552.00
+
+
+                                                                                        Subtotal      kr 96,552.00
+                                                                                             VAT            kr 0.00
+                                                                                    VAT (in NOK)            kr 0.00
+                                                                                     Amount due       kr 96,552.00
+
+                                                                                               All amounts are in SEK
+
+
+
+
+                  Ornell Software | Org.no. NO 951095449 MVA | info@example.com | Tel. +47 45494200

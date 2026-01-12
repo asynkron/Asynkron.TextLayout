@@ -1,0 +1,51 @@
+Från
+
+Acme Tech AB
+C/O Anders Andersson, Sankt Eriksvägen 9 B
+123 45 HUDDINGE
+
+
+
+Faktura                                                                         Fakturaadress
+
+                                                                                Charge Amps AB
+                                                                                Thomas Bindzau
+OCR-nummer                202121210175                                          Frösundaleden 2B, 8tr
+Fakturadatum              2021-06-30                                            123 45 SOLNA
+Förfallodatum             2021-07-30 (30 dagar)
+Leveranstidpunkt          2021-06-15
+Betalas till Bankgiro     5533-9972
+Fakturanummer             2021507
+Vår referens              Anders Andersson
+Er referens               Thomas Bindzau
+IBAN                      SE46 9500 0099 6034 1813 4460
+BIC/Swift                 NDEASESS
+
+
+
+
+Kvantitet                   Beskrivning                           Pris                                                 Totalt
+
+8 tim                        Consulting                           1 500,00 kr                                    12 000,00 kr
+
+
+                                                                                    Exklusive moms              12 000,00 kr
+
+                                                                                          Moms (25%)             3 000,00 kr
+
+                                                                                                Att betala      15 000,00 kr
+
+
+
+
+       Workshop Proto.Actor
+
+
+
+
+Acme Tech AB                                 Moms reg. nr.          E-post                         Hemsida
+C/O Anders Andersson, Sankt Eriksvägen 9 B
+123 45 HUDDINGE                              SE123456789001         Anders@Acme Tech.se              Acme Tech.se
+                                            Godkänd för F-skatt
+                                                                                                  Bankgiro
+                                                                                                  5533-9972

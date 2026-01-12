@@ -1,0 +1,31 @@
+Faktura
+
+Fakturamottagare               Kund-id WIN5977                            Fakturanummer         548025330
+Acme Tech AB                    FE nr 160 SE-123 45                         Fakturadatum          05.01.2023
+Anders Andersson                                                           Förfallodag           25.01.2023
+                               Stockholm Sweden
+Sankt Eriksvägen 9 B                                                      Bankgiro              5516-7886
+SE-123 45 HUDDINGE             Attn: Anders                                OCR-nummer          83059490116
+                               Andersson                                  Sida                       1 av 1
+
+
+Leveransadress                 Kundnr.                      90672842      Ordernummer           082514221
+Acme Tech AB                    Momsreg.nr.           SE123456789001       Orderdatum             25.12.2022
+Anders Andersson                Beställare            Anders Andersson      Leveransnummer        441523220
+Sankt Eriksvägen 9 B           Transportör                   PostNord     Leveransdatum          05.01.2023
+SE-123 45 HUDDINGE             Vår referens                      Web      Betalning        Faktura 20 dagar
+                               Din referens                OH #123 45#     Valuta                       SEK
+
+
+Linje    Artikelnr     Beskrivning                                Antal       Pris/enhet           Summa
+100      7805550       iPhone 14 128GB (midnatt)                  1           9.592,00            9.592,00
+                       Smartphone, 6,1" Super Retina XDR-skärm,
+                       12+12MP kamera, IP68, 5G
+                       S/N: 000359675692842939
+
+
+
+
+                                                                  Netto                            9.592,00
+                                                                  Moms 25%                        2.398,00
+                                                                  Summa totalt                   11.990,00

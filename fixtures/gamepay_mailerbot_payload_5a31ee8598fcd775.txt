@@ -1,0 +1,280 @@
+LIMITED REFUND POLICY
+Welcome to GamePay!
+The terms of this Refund Policy govern the relationship between you (hereinafter you or
+Customer) and one of the companies of the GamePay group (hereinafter GamePay or us or we)
+regarding your purchase. Which company of the GamePay group of companies is a party to this
+Refund Policy, concluded with a specific Customer, depends on the chosen method of
+payment. The name and legal address of the company from GamePay which is a party to the
+Refund Policy will be shown on the checkout page after you choose a payment method. In
+addition, the name and address of the relevant company will be indicated in the receipt
+provided to the Customer after the completion of a successful payment for the purchase.
+
+
+1. Our Items
+
+1.1 Software. GamePay provides you with a software which is delivered to you via internet
+download only. You can purchase the following GamePay products: a) pre-order, b) subscription,
+c) access to a game (via key or a registered game account), d) in-game currency, e) in-game
+item, f) premium account (collectively the Software).
+
+1.2 Physical goods. GamePay provides you with physical goods or merchandise, such as
+playing cards, caps, or other goods (collectively Product) which GamePay sells as an
+authorised distributor.
+
+1.3 All types of purchases - Software and (or) Products collectively will be titled Items or
+Order.
+
+1.4 The Software and Products and its descriptions and specifications are provided to GamePay
+by its partners (the Partner(s)). GamePay does not warrant the accuracy, reliability, or
+completeness of such description or specification.
+
+2. Ordering
+
+2.1 By placing an Order with GamePay, you acknowledge that your transaction will be with us
+and not with the Partner. You further acknowledge that upon successful verification by us of
+the authenticity and sufficiency of the information you provide, we will then purchase the
+Items from the Partner for the sole purpose of immediately reselling it to you for the amounts
+presented and agreed-upon when you submitted your Order.
+
+2.2 We will start processing your Order after your purchase has been approved. Orders are
+typically processed instantly, but may take up to 2–5 days to complete depending on your
+chosen payment method.
+
+2.3 Once your Order has been processed, we will send you a confirmation email (if possible)
+using the email address provided to us in your personal account or submitted to us by the
+Partner.
+
+2.4 This confirmation email will serve as your electronic purchase receipt and will contain
+information about your Order. In the case that your purchase is for a Product, you will
+receive a receipt first, and afterward we provide you with the Order confirmation email (see
+Section 4.1 below). The contract between you and GamePay will only be formed when you
+receive your Order confirmation email.
+2.5 If it is unable to supply you with an Item (for example, because that Item is not in stock,
+or no longer available, or because of an error in the price), GamePay will inform you of this by
+email and we will not process your Order. If you have already paid for the Item, we will
+refund you the full amount charged as soon as possible and will incur no further liability to
+you.
+
+3. Order Price
+
+The price of your Order will be quoted including any applicable taxes and shipping costs
+(except in circumstances where free shipping is offered) at the time of purchase and based
+on the country data you provide.
+
+4. Product Delivery
+
+4.1 After the completion of a successful purchase for the Product, the shipment process will
+be started. Once we receive a confirmation that the Product is ready for delivery, we will
+send you additional information about the shipment and delivery (“Shipment Notification”).
+The gap between payment for the Product and the receipt of a Shipment Notification may
+take 2–5 days. Where such service is made available, the Shipment Notification will contain
+a tracking number that will allow you to track the delivery of your Order.
+
+4.2 Occasionally, the delivery of the Product may be affected by a cause or event outside of
+our control, including but not limited to: strikes, lock-outs or other industrial action; civil
+commotion, riot, invasion, terrorist attack or threat of terrorist attack; war (whether declared
+or not) or threat or preparation for war; fire, explosion, storm, flood, earthquake, subsidence,
+epidemic or other natural disaster or act of God; limited access to railways, shipping, aircraft,
+motor transport or other means of public or private transport; limited access to public or
+private telecommunications networks; the acts, decrees, legislation, regulations or
+restrictions of any government. GamePay will not be responsible for any situations that affect the
+delivery in the case that such situations are beyond GamePay’s control.
+
+4.3 Delivery of the Product shall be completed when the Product will be delivered to the
+address you provide.
+
+4.4 Occasionally, part of an Order may be out of stock. The shipments of your Products will
+only be made after the Products have arrived at the depot.
+
+4.5 Products are shipped to you based on the information which you provide, and you are
+responsible for the accuracy of such information. If any regulations are breached (including
+but not limited to export/import regulations) due to inaccurate information provided by you,
+then you are responsible for such a breach.
+
+4.6 If you have any other questions about your order, shipping and/or delivery, please
+contact us at info@example.com (marked “Order”).
+
+5. Fraud Prevention
+
+We are attentive to any facts that indicate the presence of fraud. We reserve the right to
+deny access to our servers if we establish a fact pattern that indicates the illegal use of the
+Software, or any other action aimed at obtaining the Software which the user is not entitled
+to claim. Please note that Customers whose accounts are banned do not have the right to
+demand the return of purchased Software or any other refund.
+6. Refund Request
+
+6.1 We are pleased to offer returns collection service to all Customers where the purchases
+meet our Refund Policy.
+
+6.2 The cancellation period starts from the date you receive your Item. You have 14 days
+from receipt of your Item to inform us of your intention to return or exchange. For Products,
+you then have a further 14 days to return it back to us. Returns outside this period may not
+be accepted.
+
+6.3 To request a refund you need to visit https://example.com/page and contact GamePay
+customer support. Before sending a refund request, please note that:
+
+   ●   There are some exceptions to the refund rules for the Software which are mentioned
+       in the Refund condition section below.
+   ●   You should take reasonable care of the Product prior to return. In particular, this
+       means that you should not have used the Product and any tags, labels or protective
+       packaging should not have been removed.
+   ●   You should return the Product in suitable packaging to ensure it reaches us in good
+       condition. To ensure that the Product reaches us in good condition and in accordance
+       with this Refund Policy, we recommend that you use the original packaging that you
+       received the Product in to return it to us.
+
+IMPORTANT:
+
+   ●   You should send the Product(s) back to the warehouse address indicated on the
+       Order using the return label provided to you by GamePay.
+   ●   Title and risk of loss are yours, and only transfer to us once the Product is received at
+       the warehouse.
+   ●   You are responsible for the shipping and handling costs associated with sending your
+       cancelled Product(s) back (unless you have agreed to free shipping in individual
+       cases).
+
+7. Refund Conditions
+   1. Item is not received – refund is allowed. In case of pre-orders, which have not been
+      delivered yet, you may get a refund at any time up to the day of the game release;
+      after the game is released general rules of refunds are applicable.
+   2. Duplicate purchase (a transaction which has been made within 5 minutes of the last
+      transaction for the same item):
+          a. Subscriptions – refund is allowed;
+          b. In-game currency, In-game items – refund is allowed if the purchase has not
+              been redeemed;
+          c. Products – refund is allowed if the purchase has not been shipped;
+          d. Game keys – refund is not allowed;
+          e. Pre-orders – refund is allowed until the playable content has been delivered.
+   3. Forgot to deactivate a subscription – refund is not allowed.
+   4. Problem with the Product – refund is allowed. In the case of technical problems that
+      have arisen after a cooling-off period, or in the case that you have received an
+      incorrect or faulty Product, you may get a refund in accordance with the legislation of
+      your country.
+   5. Purchase of in-game currency by mistake – refund is allowed if the purchase has not
+      been redeemed.
+   6. Technical problems with the Software – refund is not allowed (such issues must be
+      reported directly to the vendor).
+   7. General statements (such as “not what I thought”, or “I can't use this”)
+           a. Products – refund is allowed;
+           b. Subscriptions, In-game items, Game keys, Pre-orders – refund is not allowed.
+
+IMPORTANT:
+
+The main thing you should know about your purchase is that by starting using any Software
+before the 14 days expiration from the purchase date you acknowledge that you will lose
+your right to change your mind and request a refund. For example, you have purchased the
+Software, paid for it and received the link for the downloading, or an email with the key for
+the access to a game, etc. If you start downloading the Software on your computer or you
+have entered the key to receive the Software before the 14 days expiration from the
+purchase date that means that you waive your right to cancel the purchase.
+
+8. Effects of Cancellation
+
+8.1 Refunds can only be issued to the original payment method used for a payment, and you
+will not incur any fees as a result of such reimbursement. It’s not possible to send a refund to
+a different account (e.g., another card or bank account) unless there is a special case (e.g.,
+expired or canceled cards, a problem with the account). In the case that you are required to
+make a refund to a different destination (e.g. a non-refundable method was originally used),
+fees from this charge are not returned.
+
+8.2 Refunds may take up to 10 working days to appear in your account, depending on the
+payment method to which it is being issued.
+
+8.3 For cancellation reimbursements, we will make the reimbursement without undue delay,
+and not later than:
+
+       (i) Fourteen (14) days after we receive your cancelled and returned Item(s), or
+
+       (ii) Fourteen (14) days after the day you provide evidence that you have returned the
+       purchased Product(s). In some cases, we may not require you to send the Product
+       back to us, such as if we consider the damage to be too serious, in which case we
+       will simply refund your purchase.
+
+8.4 If you choose to cancel, you must clearly inform us of your decision during the
+сancellation period. To effectively cancel your order or part of your order, please reach the
+Support team at https://example.com/page and detail 1) the date that the Order has been paid,
+2) that date that the Order has been received, 3) the Item(s) being cancelled, 4) the Order
+reference number, 5) your full name.
+
+8.5 Products that have been shipped cannot be cancelled and will not be refunded until you
+provide us with evidence that you have returned the purchased Product(s).
+
+9. Limitation of Liability
+
+9.1 GamePay does not exclude or limit in any way our liability to you where it would be unlawful
+to do so. To the extent permitted by law, our total liability to you in respect of all other
+foreseeable losses arising under or in connection with the EULA and this Refund Policy,
+whether in contract, tort (including negligence), breach of statutory duty, or otherwise, shall
+in no circumstances exceed the total price of a) the Items, or b) $150 USD, whichever is
+less.
+
+9.2 You agree not to use the Items for any commercial, business, or resale purposes, and
+GamePay has no liability to you for any loss of profit, loss of business, business interruption, or
+loss of business opportunity. GamePay only supplies the Items for domestic and private use. If
+you use the Items for any commercial, business, or resale purpose, GamePay will have no
+liability to you for any loss of profit, loss of business, business interruption, or loss of
+business opportunity.
+
+10. Representations and Warranties
+
+10.1 GamePay represents and warrants to you that we will take all action necessary to solve
+your issue in good faith. All refund disputes will be investigated, taking into account the
+legislation of your country.
+
+10.2 Please note that GamePay is not the developer of the Software, and cannot affect the
+Software quality or guarantee that it will meet any of your expectations. The Software is
+provided “as is” and on an “as available” basis without warranty or condition of any kind.
+
+10.3 When making your decision to purchase a pre-order of a video game, please be aware
+that the Software developer, and not GamePay, is solely responsible to complete the
+development of the Software and to provide you with an operable version of the Software.
+
+10.4 Any announcements, statements, and promises made by the Software developer in
+regard to the Software, including but not limited to the contents, release date, accessibility of
+the Software, are the developer's sole responsibility to fulfill. You should be aware of the
+possible risk that the Software developer may fail to deliver the Software in good quality, or
+on time, or may otherwise be unable to meet your expectations, even if those expectations
+are based on announcements, statements, or promises made by the developer themselves.
+In all such cases, claims and refund requests are to be made directly to the Software
+developer.
+
+11. Disputes
+
+11.1 This Refund Policy (as well as the EULA) are governed by the laws applicable in the
+State of California and shall be construed accordingly, without prejudice to any other
+imperative provision of law more favorable to the customer applicable in the country of
+habitual residence of the customer.
+
+11.2 Mindful of the high cost of legal dispute, not only in dollars but also in time and energy,
+both you and GamePay agree to the following dispute resolution procedure: In the event of any
+controversy, claim, action, or dispute arising out of or related to any Item purchase, or the
+breach, enforcement, interpretation, or validity of this Refund Policy and (or) EULA or any
+part of it ("dispute"), the party asserting the dispute shall first try in good faith to settle such
+dispute by providing written notice to the other party by registered mail describing the facts
+and circumstances (including any relevant documentation) of the dispute, and allowing the
+receiving party 30 days from the date of mailing to respond to the dispute. Notice shall be
+sent to: GamePay, 123 45 Ventura Boulevard, Suite 2230, Sherman Oaks, CA 123 45, USA.
+
+11.3 Unless you indicate otherwise in your notice, GamePay shall respond to your notice using
+your last-used billing address or the billing and/or shipping address that we have.
+
+11.4 In the event that GamePay is unable to resolve the dispute, you and GamePay both agree that
+the parties shall resolve their dispute through binding arbitration in Los Angeles, California,
+before a single arbitrator. The arbitration shall be administered by JAMS pursuant to its
+Streamlined Arbitration Rules and Procedures, and the arbitrator shall apply the laws
+applicable in the State of California. The arbitration shall proceed solely on an individual
+basis without the right for any claims to be arbitrated on a class action basis. You hereby
+waive your right to a class action lawsuit.
+12. Privacy Statement
+
+We are committed to protecting the privacy of our Customers. For information on how
+information is collected, used, or disclosed by us in connection with your purchase, please
+consult our Privacy Policy.
+
+13. Contact Details
+
+If you have any further questions or concerns related to our Refund Policy, please feel free
+to contact our Customer Support at https://example.com/page for more information.
+
+Last Updated: March 19, 2021
