@@ -1,0 +1,120 @@
+Returneras till Riverty Sweden AB, Box 1143, 123 45               Acme Tech AB
+Varberg
+                                                                  Kund-id WIN5977, FE nr 160
+                                                                                                                                     Faktur
+                                                                  SE-123 45 Stockholm
+                                                                                                                                     a
+                                                                  Sweden                                                                 Sida 1 av 2
+Hej,                                                                             123 45 Huddinge
+                                                                                 Er referens: Anders Andersson
+Här kommer din faktura för ditt köp från UC AB.
+Specifikation av vad fakturan avser framgår på baksidan.
+                                                                                       Att betala
+Efter förfallodagen debiteras dröjsmålsränta med 2,00% /
+månad samt avtalad påminnelseavgift.
+                                                                                       3 743,75 kr
+Följ bildinstruktionerna nedan för att nå vår kundportal, där
+du enkelt kan se status för din faktura samt välja det                                 Förfallodatum                           2023-07-21
+betalsätt som passar dig bäst.
+                                                                                       PlusGiro:                              123 45 01-1
+Den 4 oktober 2022 har vår faktureringspartner Arvato
+ändrat namn till Riverty Sweden AB. PG är precis som
+tidigare 123 45 01-1.                                                                  BankGiro:                                 5510-8500
+
+                                                                                       OCR-nummer:                      3085014798639
+                                                                                                         Vänd för att se din specifikation >
+
+
+
+
+       SÅ HÄR GÖR DU
+
+
+
+
+          1. Logga in med BankID på-                             2. Välj faktura och betalsätt.                3. Betalt och klart!
+            fakturainfo.riverty.com/se
+
+
+
+
+Acme Tech AB
+Sankt Eriksvägen 9 B
+
+Har du frågor kring ditt                                                                                       Godkänd för F-skatt
+
+köp?
+                                                                                    Har du faktura- eller betalningsfrågor?
+Vänligen kontakta UC AB
+på:                                                                                 Box 1143, 123 45 Varberg mail:
+Telefon: 08 - 123 45 60                                                             info@example.com
+Epost: info@example.com                                                          Tel 0340 - 59 62 00
+
+
+
+UC AB                                  Org. nr: ABCD123456                           Riverty Sweden AB         Org. nr: ABCD123456
+Klarabergsviadukten 63                 VAT.                nr:                       Box 1143                  VAT. nr: SE123456789001
+123 45 STOCKHOLM                        SE123456789001
+                                                                                     123 45 Varberg            Godkänd för F-skatt
+                                                                                                                                                 Sida 2 av 2
+
+                                                                     Fakturadatum:            2023-06-21      Fakturanr: AF426531
+                                                                     Förfallodatum:           2023-07-21      OCR:       3085014798639
+                                                                     Kundnr:                  L0113492        Ordernr:   50914629
+                                                                     Vår ref:                 Ilias Aberkan AISA
+
+
+    Fakturaspecifikation
+
+
+
+    Artikelnr                  Beskrivning                                                        Antal         A-pris       Netto      Moms             Totalt
+    L880                       UC Håll Koll Företagsbevakning + 2 ID-skydd                        1,00       3 995,00    2 995,00        25%         3 743,75
+                                                                                                                                        Netto:     2 995,00 kr
+                                                                                                                                        Moms:        748,75 kr
+
+                                                                                                                            Totalt belopp:         3 743,75 kr
+
+
+
+
+                                                                          INBETALNING / GIRERING C                       Kod 1
+                                                                          Till PlusGirokonto nr                Avgift    Kassastämpel
+
+
+                                                                          123 45 01-1
+                                                                          Betalningsmottagare(endast namn)
+
+
+                                                                          Riverty Sweden AB /
+                                                                          UC AB
+
+                                                                          Avsändare (namn och postadress)
+
+
+                                                                          Acme Tech AB
+Vid betalning på annat sätt än med denna avi skall du ange nedanstående
+Referensnr.
+                                                                          Sankt Eriksvägen 9 B
+
+
+   Referensnummer:                      3085014798639
+    Meddelanden till betalningsmottagaren kan
+                                                                                      123 45 Huddinge
+
+                                                                                       Eget kontonr vid girering
+                                                                                                                                                      C
+    inte lämnas på denna blankett
+
+
+    I FÄLTET NEDAN FÅR ANTECKNINGAR INTE                            Belopp (får inte ändras)           I FÄLTET NEDAN FÅR ANTECKNINGAR INTE
+    GÖRAS ABCD123456 FÖR PLUSGIROT                                  Svenska kronor         öre
+                                                                                                       GÖRAS ABCD123456 FÖR PLUSGIROT
+
+    Riverty behandlar dina personuppgifter för bl.a. fullgörande av avtalet och tillhandahållande av ändamålsenliga tjänster. De personuppgifter som behandlas är
+    bl.a. namn, personnummer samt adressuppgifter. För ytterligare information om behandlingen och dina rättigheter se vår Personuppgiftspolicy på
+    https://example.com/page eller kontakta oss.
+
+
+
+#                                     3085014798639 #                              3743 75 4 >                                                     45090511 #14#

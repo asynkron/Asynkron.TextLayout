@@ -1,0 +1,45 @@
+Från
+
+Acme Tech AB
+C/O Anders Andersson, Sankt Eriksvägen 9 B
+123 45 HUDDINGE
+
+
+
+Faktura                                                                        Fakturaadress
+
+                                                                               ChargeNode
+                                                                               Neongatan 4B
+OCR-nummer                202321210710                                         123 45 Mölndal
+Fakturadatum              2023-02-28
+Förfallodatum             2023-03-15 (15 dagar)
+Leveranstidpunkt          2023-02-28
+Betalas till Bankgiro     5533-9972
+Fakturanummer             7980130
+Vår referens              Anders Andersson
+Er referens               Niclas Pehrsson
+IBAN                      SE46 9500 0099 6034 1813 4460
+BIC/Swift                 NDEASESS
+
+
+
+
+Kvantitet                Beskrivning                        Pris                                                        Totalt
+
+120 tim                  Konsulting                          1 400,00 SEK                                      168 000,00 SEK
+
+
+                                                                                   Exklusive moms              168 000,00 SEK
+                                                                                         Moms (25%)             42 000,00 SEK
+                                                                                               Att betala      210 000,00 SEK
+
+
+
+
+Acme Tech AB                                 Moms reg. nr.           E-post                       Hemsida
+C/O Anders Andersson, Sankt Eriksvägen 9 B
+123 45 HUDDINGE                              SE123456789001          Anders@Acme Tech.se            Acme Tech.se
+                                            Godkänd för F-skatt
+                                                                                                 Bankgiro
+
+                                                                                                 5533-9972

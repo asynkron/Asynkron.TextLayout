@@ -1,0 +1,38 @@
+FAKTURA / INVOICE NUMER / NO.
+                                                                                                          2/Z/12/2021
+                                                                                        Miejsce wystawienia / Place: Katowice
+                                                                                     Data wystawienia / Issue date: 2021-12-30
+                                                                                       Data sprzedaży / Sale date: 2021-12-30
+
+   ABCD123456 / SELLER:                                           NABYWCA / BUYER:
+   SKYRISE.TECH SPÓŁKA AKCYJNA (formerly:                         Acme Tech AS
+   Skyrise.Tech Spółka z ograniczoną                              Sankt Eriksvägen 9b
+   odpowiedzialnością sp. k.)                                     123 45 Huddinge, Szwecja / Sweden
+   Jana III Sobieskiego 2                                         NIP / VAT ID SE 559 621445152
+   40-082 Katowice, Polska / Poland
+   NIP / VAT ID ABCD123456
+
+
+
+  LP /                                                                     Ilość /
+                             Nazwa towaru / usługi / Item                             Cena / Unit price      Wartość / Total
+  No.                                                                        Qty
+  1       IT Service - Lead Developer                                        123 45,00                  7 448,00
+
+                                                                                       RAZEM / TOTAL                     7 448,00
+
+                                                                                           Wartość / Total        7 448,00 EUR
+
+  Do zapłaty / Total due: 7 448,00 EUR
+  Słownie / In words: siedem tysięcy czterysta czterdzieści osiem EUR zero centów /
+  seven thousand, four hundred and forty eight EUR zero cents
+  Termin płatności / Due date: 2022-01-13
+  Płatność / Payment type: Przelew / Transfer
+  Bank / Bank:         Danske Bank AS, SWIFT: DABAPLPW          Konto / Bank account: EUR PL64 2360 0005 0000 0045
+  5010 9037
+  Uwagi / Notes:        Odwrotne obciążenie (Reverse charge)
+
+
+
+
+Page 1 of 1                                                                                                  generated in Fakturownia.pl

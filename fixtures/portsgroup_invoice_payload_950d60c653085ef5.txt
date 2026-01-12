@@ -1,0 +1,45 @@
+Invoice 1271365
+
+
+
+
+                                                                                                                  Anders Andersson
+                                                                                                                  Acme Tech AB
+Buyer:                                                                                                            Kund-id WIN5977, FE nr 160
+Anders Bergstrom                                                                                                      123 45 Stockholm
+ABCD123456                                                                                                        Sverige
+
+
+
+
+Username:                   andersb
+Please log on to www.domaininfo.com with the above username to pay the
+invoice by credit card or update your information.
+Description                                                                                                         Qty. Unit           Price                    Disc. %      Amount
+
+Domain Renewal, Acme Tech.se                                                2021-08-29 - 2022-08-29                    12 Months          23,03                                  276,38
+
+
+
+
+An annual interest rate fixed by the Bank of Sweden plus 8 percentage points on overdue payment will be debited
+after due date.
+
+
+
+Terms of payment: 15 days net                                              Bank:                  SEB                                 Total excl. VAT:                     276,38 SEK
+Invoice date:               2021-08-23                                     Bankgiro:              5136-5898                           VAT 25%:                              69,10 SEK
+Due date:                   2021-09-07                                                                                                Rounding method:                      -0,48 SEK
+                                                                                                                                      Total due:                           345,00 SEK
+
+
+                                                                           Please state invoice number 1271365 on payment.
+
+Address:                                                                   Phone:                                                     Corporate registration No:
+Ports Group AB                                                             +46 8 123 123 45                                          ABCD123456
+Kungsgatan 42                                                              Fax:                                                       VAT reg. No:
+123 45 Göteborg                                                            +46 8 123 123 45                                          SE123456789001
+Sverige                                                                    E-mail:                                                    Holds corporation tax certificate.
+                                                                           info@example.com
+
+                                                                                                  Page: 1

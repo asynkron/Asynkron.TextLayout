@@ -1,0 +1,49 @@
+Från
+
+Acme Tech AB
+C/O Anders Andersson, Sankt Eriksvägen 9 B
+123 45 HUDDINGE
+
+
+
+Faktura                                                                        Fakturaadress
+
+                                                                               ChargeNode
+                                                                               Neongatan 4B
+OCR-nummer                202321210777                                         123 45 Mölndal
+Fakturadatum              2023-05-31
+Förfallodatum             2023-06-15 (15 dagar)
+Leveranstidpunkt          2023-05-31
+Betalas till Bankgiro     5533-9972
+Fakturanummer             2544262
+Vår referens              Anders Andersson
+Er referens               Niclas Pehrsson
+IBAN                      SE46 9500 0099 6034 1813 4460
+BIC/Swift                 NDEASESS
+
+
+
+
+Kvantitet                Beskrivning                        Pris                                                        Totalt
+
+136 tim                  Konsulting                          1 400,00 SEK                                      190 400,00 SEK
+
+
+                                                                                   Exklusive moms              190 400,00 SEK
+                                                                                         Moms (25%)             47 600,00 SEK
+                                                                                               Att betala      238 000,00 SEK
+
+
+
+       Efter förfallodagen debiteras dröjsmålsränta med 8,00 % samt påminnelseavgift enligt gällande lag.
+
+
+
+
+Acme Tech AB                                 Moms reg. nr.           E-post                       Hemsida
+C/O Anders Andersson, Sankt Eriksvägen 9 B
+123 45 HUDDINGE                              SE123456789001          Anders@Acme Tech.se            Acme Tech.se
+                                            Godkänd för F-skatt
+                                                                                                 Bankgiro
+
+                                                                                                 5533-9972

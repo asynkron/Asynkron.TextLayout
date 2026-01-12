@@ -1,0 +1,37 @@
+FAKTURA / INVOICE NUMER / NO.
+                                                                                                      17/Z/07/2022
+                                                                                        Miejsce wystawienia / Place: Katowice
+                                                                                     Data wystawienia / Issue date: 2022-07-29
+                                                                                       Data sprzedaży / Sale date: 2022-07-29
+
+   ABCD123456 / SELLER:                                           NABYWCA / BUYER:
+   EngineerCo TECH POLAND SPÓŁKA AKCYJNA                            Acme Tech AB
+   (formerly: Skyrise.Tech Spółka Akcyjna)                        Sankt Eriksvägen 9b
+   Jana III Sobieskiego 2                                         123 45 Huddinge, Szwecja / Sweden
+   40-082 Katowice, Polska / Poland                               NIP / VAT ID SE123456789001
+   NIP / VAT ID ABCD123456
+
+
+
+  LP /                                                                     Ilość /
+                             Nazwa towaru / usługi / Item                              Cena / Unit price     Wartość / Total
+  No.                                                                        Qty
+  1       IT Service - System Architect                                     74.75                  32,00                 2 392,00
+
+                                                                                       RAZEM / TOTAL                     2 392,00
+
+                                                                                           Wartość / Total        2 392,00 EUR
+
+  Do zapłaty / Total due: 2 392,00 EUR
+  Słownie / In words: dwa tysiące trzysta dziewięćdziesiąt dwa EUR zero centów /
+  two thousand, three hundred and ninety two EUR zero cents
+  Termin płatności / Due date: 2022-08-12
+  Płatność / Payment type: Przelew / Transfer
+  Bank / Bank:          Danske Bank AS, SWIFT: DABAPLPW         Konto / Bank account: PL64 2360 0005 0000 0045 5010
+  9037
+  Uwagi / Notes:        Odwrotne obciążenie (Reverse charge)
+
+
+
+
+Page 1 of 1                                                                                                  generated in Fakturownia.pl

@@ -1,0 +1,58 @@
+Betalningspåminnelse
+         Fakturanr 84103769554, Försäkringsnr SP3106257.3.1
+
+
+                                                             1ND78
+         Acme Tech AB
+         c/o R. Andersson
+         Sankt Eriksvägen 9 B                                                                                         17 mars 2021
+         123 45 HUDDINGE
+
+
+
+
+         Din bank har meddelat oss att överföringen på 681 kr (betalningsdag 19 mars 2021) inte kan genomföras.
+         Orsaken till detta är att ditt autogiromedgivande inte är giltigt. Försäkringen måste därför betalas med
+         den här fakturan.
+
+         Har du frågor, är du välkommen att kontakta oss. 0770 -119 000
+
+         Specifikation                                                                                                     Belopp
+         Aviserat belopp                                                                                                   681 kr
+         Inbetalt 8 februari 2021                                                                                          531 kr
+
+         Summa                                                                                                             150 kr
+
+         Om betalningen inte är oss tillhanda senast 31 mars 2021, kommer försäkringen upphöra att gälla från
+         samma datum. Fortsätter försäkringen att vara obetald kommer vi att fakturera en förhöjd avgift för
+         perioden som försäkringen varit gällande. Observera att om du har anmält att få alla dina
+         försäkringshändelser digitalt, har din faktura skickats till Mina sidor, vilket vi meddelat via mejl. Logga in
+         på if.se/foretag för att ta del av allt om dina försäkringar. Där kan du också kontrollera att vi har din rätta
+         mejladress.
+
+         Har du frågor, är du välkommen att kontakta oss.
+
+
+
+
+         Kontaktuppgifter:
+         If Företagscenter för Nordea, Telefon: 0770 -119 000, Mejl: info@example.com
+
+
+
+              Fakturauppgifter:
+
+              Att betala:               150 kr                                     Bankgiro:     5952-8380
+              Betala senast:             31 mars 2021                              IBAN:         SE1234567890123456789012
+              OCR/Referens:             84103769554                                BIC/SWIFT:    NDEASESS
+              Inbetalning från utlandet kan göras till Nordea Sverige.
+
+
+I1.4.1
+
+
+
+
+         If Skadeförsäkring AB (publ)                     Telefon: 0771 43 00 00                Org.nr: ABCD123456
+         Postadress: 123 45 Stockholm                     www.if.se                             Säte: Stockholm
+         Huvudkontor: Barks väg 15, Solna

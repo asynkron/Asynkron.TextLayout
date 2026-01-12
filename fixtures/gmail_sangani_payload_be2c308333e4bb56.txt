@@ -1,0 +1,41 @@
+INVOICE
+
+
+
+Date:          Oct 01, 2022
+
+Invoice #:     10-2022-01
+
+To:            Acme Tech AB
+
+               Kund-id WIN5977,
+
+               FE nr 160 SE-123 45
+
+               Stockholm Sweden
+
+               Attn: Anders Andersson
+
+
+
+From:          Harshaben Naginbhai Svensson,
+
+               M-301, Garden Residency 3, South Bopal
+
+               Gujarat, 380018
+
+For:           IT Consulting Services
+
+Service Dates: 26-09-2022 thru 07-10-2022
+
+Tasks:         Logged Hours
+
+
+
+Logged Hours and Bank Details:
+
+
+
+                                                  Hours Hourly Rate    Amount
+ Total Logged Hours                             62.5           37.5    2343.75
+ HDFC Bank - 9246                                             Total:   2343.75

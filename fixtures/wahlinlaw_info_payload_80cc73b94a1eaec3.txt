@@ -1,0 +1,100 @@
+Inmem AB
+Sankt Eriksvägen 9 B
+123 45 Huddinge
+                                                                        Faktura
+Sverige
+
+
+
+
+Kundnummer:                        123 45                               Faktura nr.:          230692
+Fakturadatum:                 2023-04-06                               Oss tillhanda:     2023-04-21
+Er ref:                  Anders Andersson
+
+
+
+
+Juridiskt biträde enligt bifogad arbetsredogörelse under september 2022 till mars 2023.
+
+
+Beskrivning                                                                                                  Belopp
+
+Aktiviteter                                                                                      SEK       15 775,00
+
+                                          Delsumma                                               SEK       15 775,00
+
+                                          Moms 25% på SEK 15 775,00                              SEK        3 943,75
+
+                                          Att betala                                             SEK       19 718,75
+
+
+
+
+IBAN: SE09 6000 0000 0008 8525 8851 BIC/SWIFT HANDSESS
+HANDELSBANKEN ABCD123456 - SWEDEN A/C 6691 76487290
+
+
+
+
+Efter förfallodagen debiteras dröjsmålsränta enligt räntelagen.
+
+Wåhlin Advokater                            Telefon                     Momsreg.nr              Godkänd för F-skatt.
+Östra Hamngatan 5                           031-123 45 00               SE123456789001          Organisationsnummer
+123 45 Göteborg                             Telefax                     Bankgiro                ABCD123456
+info@example.com                         031-123 45 20               705-8290                Säte: Göteborg
+                                                                                                Arbetsredogörelse
+                                                                                        Period: september 2022 till mars 2023
+
+
+
+
+                                                                                            Mikael Palm Andersson
+Inmem AB
+Ärende
+
+Inmem AB Uppstart lagerbolag (2850765)
+Datum        Beskrivning
+
+2022-09-14   Mailkontakt avseende uppstart, ansökan hos Nordea och NDA.
+
+2022-09-21   Samtal till Stanardbolag AB om att göra Anders ägare till samtliga aktier i Inmem. Det är möjligt. Bett Ida Grimsborg ta
+             kontakt med handläggaren i Malmö för vidare åtgärder.
+
+2022-09-27   Förtydligande mail till Anders om processen.
+
+2022-10-27   Samtal med Anders om bankens handläggning och NDA.
+
+2022-11-14   Mail till Anders och överväganden kring ny ansökan till Nordea.
+
+2022-11-15   Småjusteringar av ansökan till Nordea. Kontakt med Standardbolag om justerad fullmakt. Mail till Anders med
+             justerad ansökan och fullmakt.
+
+2022-11-16   Mail till Anders med registreringsbevis och bolagsordning.
+
+2022-11-23   Mail till Anders om fullmakt och besök hos Nordea samt skickat iväg fullmakt med post.
+
+2022-12-07   Mail till Anders om nästa steg i processen.
+
+2022-12-15   Avstämning OA, telefonsamtal med Anders och e-post till Standardbolag med likvidintyget.
+
+2022-12-19   SMS Anders ang passkopior
+
+2022-12-21   Avstämning och mail till klient om signering och passkopior.
+
+2023-01-11   Kontakt med Standardbolag. Samtal och mail till Anders.
+
+2023-01-12   Mail till Anders, Magne och Thomas angående namnbyte.
+
+2023-01-23   Kontakt med Bolagsverket/Standardbolag gällande namnförslag. Överväganden gällande namnförslag. Skickat
+             förslag till Anders m.fl. per mail.
+
+2023-01-24   Mail till Anders m.fl. om registrerat bolagsärende, godkänt bolagsnamn, registrering av verklig huvudman och vidare
+             handläggning hos banken.
+
+2023-01-27   Postat originalhandlingar till Anders samt mail.
+
+2023-01-30   Samtal till Anders angående bankprocessen.
+
+2023-02-20   Samtal till Anders om vägar framåt.
+
+2023-02-27   Mail till Anders om nästa steg i processen.

@@ -1,0 +1,57 @@
+Faktura nr / Invoice No.: FV0020222
+                                                                                           Data wystawienia                       Data sprzedaży
+                                                                                           Invoice Date:
+                                                                                                                    2022-02-10    Sale date:
+                                                                                                                                                         2022-02-10
+                                                                                           Termin płatności                       Metoda płatności       przelew / transfer
+                                                                                           Payment Due By:
+                                                                                                                    2022-02-17    Payment Method:
+
+
+
+
+Sprzedawca (Seller)                                                                        Nabywca (Bill to)
+ConsultCo Konrad Kokosa                                                                     Acme Tech AB
+Sanocka 4/59                                                                               SANKT ERIKSVÄGEN 9B
+02-110 Warszawa, Polska                                                                    123 45 HUDDINGE
+NIP/VAT UE: PL5272303869                                                                   Sweden
+Bank Millennium S.A.                                                                       VAT UE: SE123456789001
+IBAN PL 28 1160 2202 0000 0004 5680 1139
+SWIFT: BIGBPLPW
+ul. Stanisława Żaryna 2A, 02-593 Warszawa
+
+
+
+Lp                                   Nazwa                                        Jedn.   Ilość       Cena netto      Stawka   Wartość netto           Wartość brutto
+No                                 Description                                     Unit    Qty        Unit price      Tax Rate Total Excl. Tax         Total Incl. Tax
+  1 Proto.Actor software consultancy                                              szt.            1      3 000,00 nie podl.            3 000,00                3 000,00
+                                                                                                                       UE
+                                                                                                                |
+ Stawka VAT          Wartość netto         Kwota VAT          Wartość brutto                          Zapłacono / Already Paid                                0,00 EUR
+     Tax Rate          Total Excl. Tax           Tax            Total Incl. Tax
+                                                                                                      Do zapłaty / Total Due                             3 000,00 EUR
+ nie podl. UE               13 550,10                  0,00         13 550,10
+                                                                                                      Razem / Total                                      3 000,00 EUR
+     PLN
+                                                                                                                                                     Słownie / In words
+ Razem / Total              13 550,10                  0,00         13 550,10
+                                                                                                                |
+                                                                                                                                            trzy tysiące euro 0/100
+Odwrotne obciążenie / Reverse charge
+Uwagi (Remarks)
+PKWiU ex 62.02
+1 EUR = 4,5167 PLN
+Kurs z dnia: 2022-02-09
+Numer tabeli: 027/A/NBP/2022
+
+
+
+
+       Imię i nazwisko osoby uprawnionej                                                                                            Imię i nazwisko osoby uprawnionej
+              do wystawiania faktury                                                                                                         do odbioru faktury
+                 seller's signature                                                                                                           buyer's signature
+
+
+
+
+                                                                  Wydruk pochodzi z systemu wFirma.pl wersja 22.1

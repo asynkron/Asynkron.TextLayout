@@ -1,0 +1,37 @@
+FAKTURA / INVOICE NUMER / NO.
+                                                                                                    20/Z/06/2022
+                                                                                      Miejsce wystawienia / Place: Katowice
+                                                                                   Data wystawienia / Issue date: 2022-06-30
+                                                                                     Data sprzedaży / Sale date: 2022-06-30
+
+   ABCD123456 / SELLER:                                          NABYWCA / BUYER:
+   EngineerCo TECH POLAND SPÓŁKA AKCYJNA                           Acme Tech AB
+   (formerly: Skyrise.Tech Spółka Akcyjna)                       Sankt Eriksvägen 9b
+   Jana III Sobieskiego 2                                        123 45 Huddinge, Szwecja / Sweden
+   40-082 Katowice, Polska / Poland                              NIP / VAT ID SE123456789001
+   NIP / VAT ID ABCD123456
+
+
+
+  LP /                                                                   Ilość /
+                              Nazwa towaru / usługi / Item                          Cena / Unit price      Wartość / Total
+  No.                                                                      Qty
+  1       IT Service - System Architect                                    94                   32,00                  3 008,00
+
+                                                                                     RAZEM / TOTAL                     3 008,00
+
+                                                                                         Wartość / Total        3 008,00 EUR
+
+  Do zapłaty / Total due: 3 008,00 EUR
+  Słownie / In words: trzy tysiące osiem EUR zero centów /
+  three thousand and eight EUR zero cents
+  Termin płatności / Due date: 2022-07-14
+  Płatność / Payment type: Przelew / Transfer
+  Bank / Bank:          Danske Bank AS, SWIFT: DABAPLPW        Konto / Bank account: PL64 2360 0005 0000 0045 5010
+  9037
+  Uwagi / Notes:        Odwrotne obciążenie (Reverse charge)
+
+
+
+
+Page 1 of 1                                                                                                generated in Fakturownia.pl

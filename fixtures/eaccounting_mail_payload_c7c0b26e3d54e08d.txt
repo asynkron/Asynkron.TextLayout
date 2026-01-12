@@ -1,0 +1,60 @@
+Sida 1 av 1
+
+                                                                               Faktura
+                                                                               Fakturanummer                2407
+
+
+
+
+                                                                               Anders Andersson
+                                                                               Sankt Eriksvägen 9 B
+                                                                               123 45 Huddinge
+
+
+Kundnr                  123 45
+Fakturadatum            2023-07-04
+Leveransdatum           2023-07-04
+Dröjsmålsränta          Vid betalning efter förfallodagen debiteras
+                        ränta enligt räntelagen.
+
+ Art.nr                 Beskrivning                                       Antal     Enhet              À-pris    Anm                      Summa
+
+ 05                     Slipning av parkettgolv behandla                  40,00     m2                280,00     Arb kost               11 200,00
+                        med vit bets och matt lack
+ 06                     Slipning av trappan 13 st                          1,00     st             11 000,00     Arb kost               11 000,00
+ Material
+ 16                     Slippapper , vit bets och matt lack                1,00     st               2 700,00                            2 700,00
+ 03                     Transport                                          1,00     st                500,00                               500,00
+
+
+
+
+                                                                                             Förfallodatum                            2023-07-11
+                                                                                             OCR                                         240762
+                                                                                             Anges vid betalning
+                                                                                             Bankgiro                                  5610-8079
+                                                                                             Summa                                      31 750,00
+                                                                                             Skattereduktion                             8 325,00
+
+
+
+ Exkl. moms                                    25 400,00
+ Moms (25 %)                                    6 350,00
+ Avrundning                                         0,00                                     Att betala                            23 425,00
+
+ Denna faktura avser husarbete, där du som kund uppgett att du har rätt till en preliminär skattereduktion på 8 325,00 kr. För att vi ska kunna
+ göra ansökan till Skatteverket, ska du betala 23 425,00 kr. Som köpare blir du betalningsskyldig för icke godkänt belopp om Skatteverkets
+ avslag beror på omständigheter som kan härledas till dig som köpare.
+
+ Ant personer           Personnummer                                                                                  Fast./lgh beteckning
+ 1                      10836556-6632                                                                                 härdegropen 12
+
+
+
+Adress                                      Telefon                                      Säte                          Momsreg.nr
+Golvexperten i Stockholm AB                 ABCD123456                                   Stockholm                     SE123456789001
+Johan Skyttes Väg 203
+                                            E-post/Webbplats                             Organisationsnr
+123 45 ÄLVSJÖ
+                                            info@example.com              ABCD123456
+                                            www.golvexpertenistockholm.se                Godkänd för F-skatt

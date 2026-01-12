@@ -1,0 +1,48 @@
+Page 1 of 1                                  INVOICE
+                                                                                                                         Helleborg AS
+                                                                                                                         C/O Magne Moss Helleborg Hunsrødskogen
+                                                                                                                         1 3241 ABCD123456
+
+                                     Acme Tech AB                                                                         Our ref: Magne Moss Helleborg
+                                                                                                                         Your ref: Anders Andersson
+                                     Kund-id WIN5977, FE nr 160
+                                                                                                                         Delivery date: 08/12/2021
+                                     123 45 Stockholm                                                                     Delivered to: Sankt Eriksvägen 9B, 123 45 Huddinge
+                                     Sverige
+                                                                                                                         Invoice date:         08/12/2021 Invoice no.:            1006
+                                                                                                                         Due date:             22/12/2021
+                                     All amounts are entered in SEK
+
+
+                                     DESCRIPTION                                                                            PRICE               QTY. DISCOUNT       VAT        AMOUNT
+
+
+                                     First Genesis: 37 hours 180 USD. Amount is calculated in SEK,                       1,640.99                  37        0       0%        60,716.63
+                                     7.12.2021
+
+                                     Correction of currency errors from invoice: 1005, 1 339,93 NOK                      1,352.04                   1        0       0%         1,352.04
+                                     to 1 352,04 SEK
+
+                                     VAT rate                       Basis                      VAT                       Net amount                                            62,068.67
+                                     Export 0 %                       62,068.67                  0.00                    Value-added tax (VAT)                                      0.00
+
+                                                                                                                         TOTAL DUE (NOK)                                      62,068.67
+
+
+
+
+                                     Late payment fees and interest may be charged in accordance with the state regulations.
+                                     If you object to this invoice it may be submitted to the Conciliation Board according to the Disputes Act § 5-2.            Made with
+
+                                     PAYMENT INFORMATION
+
+                                     Invoice number:             1006                        Please add the invoice number to the payment transfer!
+                                     Amount to pay:              62,068.67                   Bank account:    98024389723
+                                     SWIFT:                      SBAKNOBB                    IBAN:                   NO68 9802 4389 723
+
+                                     HELLEBORG AS // FORETAKSREGISTERET 804588006 MVA // PHONE: 57667832
+
+
+
+
+Powered by TCPDF (www.tcp df.o rg)

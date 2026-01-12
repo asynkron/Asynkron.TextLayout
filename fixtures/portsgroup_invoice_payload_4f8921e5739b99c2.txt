@@ -1,0 +1,44 @@
+Invoice 9325210
+
+
+
+
+                                                                                                                  Anders Andersson
+                                                                                                                  Acme Tech AB
+                                                                                                                  Kund-id WIN5977, FE nr 160
+                                                                                                                  123 45 Stockholm
+Buyer:                                                                                                            Sverige
+Anders Bergstrom
+ABCD123456
+
+Username:                   andersb
+Please log on to www.domaininfo.com with the above username to pay the
+invoice by credit card or update your information.
+Description                                                                                                         Qty. Unit          Price                   Disc. %         Amount
+
+Domain Renewal, openactor.io                                                2022-12-22 - 2023-12-22                     12 Months          139,95                                  1 679,34
+
+
+
+
+An annual interest rate fixed by the Bank of Sweden plus 8 percentage points on overdue payment will be debited
+after due date.
+
+
+
+Terms of payment: 15 days net                                             Bank:                  SEB                                 Total excl. VAT:                     1 679,34 SEK
+Invoice date:               2022-12-19                                    Bankgiro:              5136-5898                           VAT 25%:                              419,84 SEK
+Due date:                   2023-01-03                                    BIC/SWIFT:             ESSESESSXXX                         Rounding method:                        -0,18 SEK
+                                                                          IBAN:                  SE1234567890123456789012            Total due:                           2 099,00 SEK
+
+
+                                                                          Please state invoice number 9325210 on payment.
+
+Address:                                                                  Phone:                                                     Corporate registration No:
+Ports Group AB                                                            +46 8 123 123 45                                          ABCD123456
+Kungsgatan 42                                                             Fax:                                                       VAT reg. No:
+123 45 Göteborg                                                           +46 8 123 123 45                                          SE123456789001
+Sverige                                                                   E-mail:                                                    Holds corporation tax certificate.
+                                                                          info@example.com
+
+                                                                                                 Page: 1

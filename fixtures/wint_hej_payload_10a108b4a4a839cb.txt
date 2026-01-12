@@ -1,0 +1,47 @@
+From
+
+Acme Tech AB
+C/O Anders Andersson, Sankt Eriksvägen 9 B
+123 45 HUDDINGE
+
+
+
+Invoice                                                                             Invoice address
+
+                                                                                    Keysoft.co.il
+                                                                                    Eli Smadar
+Reference OCR              20212121089                                              12 Hanapach st.
+Invoice date               2021-02-10                                               POBox: 6368
+                           2021-03-12 (30 days)                                     0986026 Karmiel
+Due date
+                                                                                    Israel
+Delivery date              2021-02-08
+Payable to Bankgiro        5533-9972
+Invoice number             3251143
+Our reference              Anders Andersson
+Your reference             Eli Smadar
+IBAN                       SE46 9500 0099 6034 1813 4460
+BIC/Swift                  NDEASESS
+
+
+
+
+Quantity                   Description                             Price                                                            Total
+
+1h                          Consulting                              EUR 150.00                                           EUR 150.00
+
+
+                                                                                                      To pay             EUR 150.00
+
+
+
+
+       Consultancy fee 1h Zoom meeting
+
+
+
+
+Acme Tech AB                                 VAT identification number      E-mail                          Homepage      Bankgiro
+C/O Anders Andersson, Sankt Eriksvägen 9 B
+123 45 HUDDINGE                              SE123456789001                 Anders@Acme Tech.se               Acme Tech.se   5533-9972
+                                            Registered for F-tax

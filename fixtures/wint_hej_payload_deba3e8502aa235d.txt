@@ -1,0 +1,55 @@
+From
+
+Acme Tech AB
+C/O Anders Andersson, Sankt Eriksvägen 9 B
+123 45 HUDDINGE
+Sweden
+
+
+Invoice                                                                   Invoice address
+
+                                                                          First Genesis
+                                                                          Pascal Watty
+Reference OCR              202221210331                                   1600 Highway 6, Suite 325
+Invoice date               2022-01-19                                     Sugar Land
+                           2022-02-03 (15 days)                           123 45 Texas
+Due date
+                                                                          United States
+Delivery date              2022-01-19
+Payable to Bankgiro        5533-9972
+Invoice number             5193042
+Our reference              Anders Andersson
+Your reference             Pascal Watty
+IBAN                       SE46 9500 0099 6034 1813 4460
+BIC/Swift                  NDEASESS
+
+
+
+
+Quantity                  Description                   Price                                                       Total
+
+29 h                      Anders                          USD 200.00                                      USD 5,800.00
+15 h                      Magne                          USD 200.00                                      USD 3,000.00
+53 h                      Thomas                         USD 200.00                                     USD 10,600.00
+127.5 h                   Ryszard                        USD 110.00                                     USD 14,025.00
+
+
+                                                                                            To pay    USD 33,425.00
+
+
+
+
+       Full work specification:
+       https://example.com/page
+       usp=sharing
+
+
+
+
+Acme Tech AB                                   VAT identification number        E-mail                 Homepage
+C/O Anders Andersson, Sankt Eriksvägen 9 B
+123 45 HUDDINGE                                SE123456789001                   Anders@Acme Tech.se      Acme Tech.se
+Sweden                                        Registered for F-tax
+                                                                                                      Bankgiro
+
+                                                                                                      5533-9972

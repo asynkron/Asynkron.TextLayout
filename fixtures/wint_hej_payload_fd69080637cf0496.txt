@@ -1,0 +1,47 @@
+From
+
+Acme Tech AB
+C/O Anders Andersson, Sankt Eriksvägen 9 B
+123 45 HUDDINGE
+Sweden
+
+
+Invoice                                                                 Invoice address
+
+                                                                        First Genesis
+                                                                        1600 Highway 6, Suite 325
+Reference OCR             202221210653                                  Sugar Land
+Invoice date              2022-12-30                                    123 45 Texas
+                          2023-01-14 (15 days)                          United States
+Due date
+Delivery date             2022-12-30
+Payable to Bankgiro       5533-9972
+Invoice number            0719549
+Our reference             Anders Andersson
+Your reference            Pascal Watty
+IBAN                      SE46 9500 0099 6034 1813 4460
+BIC/Swift                 NDEASESS
+
+
+
+
+Quantity                 Description                 Price                                                        Total
+
+18 h                      Anders                       USD 200.00                                       USD 3,600.00
+12 h                      Magne                       USD 200.00                                       USD 2,400.00
+40.81 h                   Thomas                      USD 200.00                                       USD 8,162.00
+179.5 h                   Tushar                      USD 110.00                                     USD 19,745.00
+
+
+                                                                                          To pay    USD 33,907.00
+
+
+
+
+Acme Tech AB                                 VAT identification number        E-mail                 Homepage
+C/O Anders Andersson, Sankt Eriksvägen 9 B
+123 45 HUDDINGE                              SE123456789001                   Anders@Acme Tech.se      Acme Tech.se
+Sweden                                      Registered for F-tax
+                                                                                                    Bankgiro
+
+                                                                                                    5533-9972

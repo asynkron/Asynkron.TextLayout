@@ -1,0 +1,44 @@
+From
+
+Acme Tech AB
+C/O Anders Andersson, Sankt Eriksvägen 9 B
+123 45 HUDDINGE
+Sweden
+
+
+Invoice                                                                    Invoice address
+
+                                                                           ST Engineering Mission Software & Services Pte. Ltd.
+                                                                           1 Ang Mo Kio Electronics Park Road
+Reference OCR             202321210686                                     567710 #04-01 ST Engineering Hub
+Invoice date              2023-02-07                                       Singapore
+Due date                  2023-03-09 (30 days)
+Delivery date             2023-02-07
+Payable to Bankgiro       5533-9972
+Invoice number            5935401
+Our reference             Anders Andersson
+Your reference            Chew Shi Hui
+IBAN                      SE46 9500 0099 6034 1813 4460
+BIC/Swift                 NDEASESS
+
+
+
+
+Quantity           Description                                           Price                                           Total
+
+1 pcs               Proto.Actor Workshop Day 1                           USD 2,000.00                         USD 2,000.00
+1 pcs               Proto.Actor Workshop Day 2                           USD 2,000.00                         USD 2,000.00
+
+
+                                                                                             To pay          USD 4,000.00
+
+
+
+
+Acme Tech AB                                  VAT identification number           E-mail                    Homepage
+C/O Anders Andersson, Sankt Eriksvägen 9 B
+123 45 HUDDINGE                               SE123456789001                      Anders@Acme Tech.se         Acme Tech.se
+Sweden                                       Registered for F-tax
+                                                                                                           Bankgiro
+
+                                                                                                           5533-9972

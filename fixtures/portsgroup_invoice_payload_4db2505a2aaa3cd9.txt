@@ -1,0 +1,49 @@
+Reminder
+
+                                                                                        Cust No.                                            Date
+                                                                                        120138                                              2023-01-23
+
+
+                                                                                        Billing address
+                                                                                        Anders Andersson
+                                                                                        Acme Tech AB
+                                                                                        Kund-id WIN5977, FE nr 160
+                                                                                        123 45 Stockholm
+                                                                                        Sverige
+
+
+
+
+Your reference:                                                         The following invoices have passed the due date for payment:
+
+
+
+
+Invoice No.            Invoice date:            Due date:                                                                             Amount             Balance outst.
+
+
+                       2020-03-25                2020-03-25 5522952 Elektronisk betalning från bank.SEK
+                                                                                                    Ingen avbild.                       -360,00                 -6,00
+                       2020-09-28                2020-09-28 3989402 Elektronisk betalning från bank.SEK
+                                                                                                    Ingen avbild.                       -391,00                -52,00
+                       2021-09-08                2021-09-08 1271365 Elektronisk betalning från bank.SEK
+                                                                                                    Ingen avbild.                       -345,00               -345,00
+0521689                2022-12-31                2023-01-15 Utgående faktura                        SEK                                1 861,00              1 861,00
+
+                                                            Total amount                                  SEK                                                1 458,00
+
+
+
+
+Since 16/03/2013 new rules apply for compensation of debt recovery costs, reminder charges, etc. in accordance with
+
+DIRECTIVE 2011/7/EU OF THE EUROPEAN ABCD123456 AND OF THE COUNCIL
+
+
+
+
+Address:                       Phone:                          E-mail:                           Corporate registration No:           IBAN:
+Ports Group AB                 +46 8 123 123 45               info@example.com            ABCD123456                          SE1234567890123456789012
+Kungsgatan 42                  Fax:                            SE Bankgiro:                      VAT reg. No:                         BIC/SWIFT:
+123 45 Göteborg                +46 8 123 123 45               5136-5898                         SE123456789001                       ESSESESS
+Sverige                                                                                          Holds corporation tax certificate.

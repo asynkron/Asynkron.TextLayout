@@ -1,0 +1,46 @@
+Page 1 of 1
+
+    Invoice                                                    Helleborg AS312
+    Invoice number        1025
+
+
+
+
+    Acme Tech AB
+    Kund-id WIN5977, FE nr 160
+    SE-123 45 Stockholm
+    Sweden
+
+                                                               Customer number     2
+                                                               Invoice date        21.11.2022
+    Delivery address                                           Delivery date       21.11.2022
+    Sankt Eriksvägen 9B                                        Our reference       Magne Moss Helleborg
+    123 45 Huddinge                                            Penalty interest    For payments after due date interest is
+    Sweden                                                                         charged according to law.
+
+Description                                                                 Quantity Unit              Unit price            Total
+Konsulent - First Genesis 06.10-24.10                                           9.00 h                  1,861.22       16,751.00
+
+
+
+
+                                                                     Due date                                        01.12.2022
+                                                                     KID
+                                                                     Invoice number                                          1025
+                                                                     Please state invoice number on payment.
+                                                                     Bank                                          SBanken ASA
+                                                                     BIC                                            SBAKNOBB
+                                                                     IBAN                                    NO68 9802 4389 723
+
+Excl. VAT                                                16,751.00
+VAT (0 %)                                                     0.00
+Rounding                                                      0.00   Total amount                               16,751.00 SEK
+
+Address                                  Phone                                Corporate identity no.
+Helleborg AS312                          57667832                             NO 923 885 102 MVA
+c/o Magne Moss Helleborg Hunsrødskogen                                        Foretaksregisteret
+                                         Email/Website
+1
+                                         info@example.com
+3241 Sandefjord
+Norway
