@@ -14,7 +14,7 @@ TextLayout uses an XY-Cut algorithm to detect text blocks in documents that have
 ## Installation
 
 ```bash
-pip install textlayout
+pip install git+https://github.com/asynkron/Asynkron.TextLayout.git
 ```
 
 ## Usage
