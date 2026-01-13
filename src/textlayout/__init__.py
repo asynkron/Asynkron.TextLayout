@@ -9,6 +9,8 @@ from .parser import (
     detect_blocks,
     text_to_matrix,
     extract_block,
+    extract,
+    extract_pdf,
 )
 from .formatter import format_output, align_key_value_groups
 
@@ -18,6 +20,8 @@ __all__ = [
     "detect_blocks",
     "text_to_matrix",
     "extract_block",
+    "extract",
+    "extract_pdf",
     "format_output",
     "align_key_value_groups",
 ]

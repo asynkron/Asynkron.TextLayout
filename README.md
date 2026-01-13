@@ -24,22 +24,35 @@ pip install git+https://github.com/asynkron/Asynkron.TextLayout.git
 ```bash
 textlayout document.txt
 textlayout document.txt 3  # min_gap=3 for tighter column detection
+textlayout document.pdf 2  # requires pdftotext on PATH
 ```
 
 ### Python API
 
 ```python
-from textlayout import process_document, format_output
+from textlayout import extract
 
 # Read your document
 with open("invoice.txt") as f:
     text = f.read()
 
-# Extract blocks
-blocks = process_document(text, min_gap=2)
+output = extract(text, min_gap=2)
+print(output)
+```
 
-# Format output
-output = format_output(blocks)
+### PDF via pdftotext
+
+Requires Poppler's `pdftotext` available on your `PATH`.
+
+Install options:
+- macOS: `brew install poppler`
+- Debian/Ubuntu: `sudo apt-get install poppler-utils`
+- Python wrapper: `pip install pdftotext` (https://pypi.org/project/pdftotext/)
+
+```python
+from textlayout import extract_pdf
+
+output = extract_pdf("invoice.pdf", min_gap=2)
 print(output)
 ```
 

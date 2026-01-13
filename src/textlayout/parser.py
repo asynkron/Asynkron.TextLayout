@@ -2,6 +2,10 @@
 Core parsing logic for extracting text blocks from documents.
 """
 
+from __future__ import annotations
+
+import subprocess
+
 
 def text_to_matrix(text: str) -> list[list[str]]:
     """Convert text to a 2D character matrix, padding lines to equal length."""
@@ -223,3 +227,51 @@ def process_document(text: str, min_gap: int = 2) -> list[str]:
     """
     matrix = text_to_matrix(text)
     return detect_blocks(matrix, min_gap)
+
+
+def extract(text: str, min_gap: int = 2) -> str:
+    """
+    Extract text blocks from raw text input.
+
+    Args:
+        text: The raw text content with preserved spacing
+        min_gap: Minimum whitespace column width to split on (default: 2)
+
+    Returns:
+        Formatted text output from detected blocks
+    """
+    from .formatter import format_output
+
+    blocks = process_document(text, min_gap)
+    return format_output(blocks)
+
+
+def extract_pdf(pdf_file_path: str, min_gap: int = 2) -> str:
+    """
+    Extract text blocks from a PDF using Poppler's pdftotext.
+
+    Args:
+        pdf_file_path: Path to the PDF file
+        min_gap: Minimum whitespace column width to split on (default: 2)
+
+    Returns:
+        Formatted text output from detected blocks
+    """
+    try:
+        result = subprocess.run(
+            ["pdftotext", "-layout", pdf_file_path, "-"],
+            check=False,
+            capture_output=True,
+            text=True,
+        )
+    except FileNotFoundError as exc:
+        raise RuntimeError("pdftotext is not installed or not on PATH") from exc
+
+    if result.returncode != 0:
+        error = result.stderr.strip() or "Unknown pdftotext error"
+        raise RuntimeError(f"pdftotext failed: {error}")
+
+    from .formatter import format_output
+
+    blocks = process_document(result.stdout, min_gap)
+    return format_output(blocks)
